@@ -1,5 +1,5 @@
 ﻿Empresa_Atividade
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\20211011110003\Source\Repos\tankensh\VS_EmpresaAtividade\Empresa_Atividade\Empresa_Atividade\App.xaml
 11407045341
 
-11-758005451
+9-165561478
 193-1891726104
 MainWindow.xaml;
 
-False
+True
 

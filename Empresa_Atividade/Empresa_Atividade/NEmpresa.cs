@@ -24,7 +24,7 @@ namespace Empresa_Atividade
             Salvar();
         }
         public static List<Empresa> Listar()
-        {
+        {   
             Abrir();
             return empresas;
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20211011110003\\source\\repos\\tankensh\\VS_EmpresaAtividade\\Empresa_Atividade\\Empresa_Atividade\\Empresa_Atividade.csproj",
+      "projectUniqueName": "C:\\Users\\20211011110003\\Source\\Repos\\tankensh\\VS_EmpresaAtividade\\Empresa_Atividade\\Empresa_Atividade\\Empresa_Atividade.csproj",
       "projectName": "Empresa_Atividade",
-      "projectPath": "C:\\Users\\20211011110003\\source\\repos\\tankensh\\VS_EmpresaAtividade\\Empresa_Atividade\\Empresa_Atividade\\Empresa_Atividade.csproj",
+      "projectPath": "C:\\Users\\20211011110003\\Source\\Repos\\tankensh\\VS_EmpresaAtividade\\Empresa_Atividade\\Empresa_Atividade\\Empresa_Atividade.csproj",
       "packagesPath": "C:\\Users\\20211011110003\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20211011110003\\source\\repos\\tankensh\\VS_EmpresaAtividade\\Empresa_Atividade\\Empresa_Atividade\\obj\\",
+      "outputPath": "C:\\Users\\20211011110003\\Source\\Repos\\tankensh\\VS_EmpresaAtividade\\Empresa_Atividade\\Empresa_Atividade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20211011110003\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
